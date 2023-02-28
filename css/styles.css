@@ -530,7 +530,8 @@ input[type='checkbox'] {
 }
 
 .header #js-rotating {
-	color: #d79491;
+	color: #cf180e;
+	font-size: 4.405rem;
 }
 
 .header .p-large {
@@ -862,12 +863,21 @@ a:hover.back-to-top {
 /*     Media Queries     */
 /*************************/	
 /* Min-width 768px */
+@media (max-width: 600px){
+	.header #js-rotating {
+		color: #cf180e;
+		font-size: 3.405rem;
+	}
+}
+
 @media (min-width: 768px) {
 
 	/* Header */
 	.header .area-2 {
 		height: 500px;
 	}
+
+
 	/* end of header */
 
 
