@@ -1,8 +1,23 @@
 *{box-sizing: border-box;}
 
-
-.teste{
-    width: 100px;
-    height: 100px;
+.container{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.quadrados{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 100%;
+    height: 400px;
     background-color: aqua;
+}
+
+.quadrados div{
+    width: 22%;
+    height: 40%;
+    background-color: blueviolet;
 }
