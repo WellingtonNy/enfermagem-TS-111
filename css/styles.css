@@ -441,12 +441,21 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-text {
-	color: #676861;
+	/* color: #676861; */
+	color: #cf180e;
 	font-weight: 700;
 	font-size: 1.625rem;
 	line-height: 1rem;
 	text-decoration: none;
 }
+
+.vermelhinho{
+	color: #cf180e;
+}
+.navbar .logo-text:hover{
+	color: #f30808;
+}
+
 
 .offcanvas-collapse {
 	position: fixed;
@@ -485,7 +494,7 @@ input[type='checkbox'] {
 
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-	color: #d79491;
+	color: #f30808;
 }
 
 .navbar .social-icons a {
@@ -501,7 +510,7 @@ input[type='checkbox'] {
 }
 
 .navbar .fab:hover {
-	color: #d79491;
+	color: #f30808;
 }
 
 .navbar .navbar-toggler {
