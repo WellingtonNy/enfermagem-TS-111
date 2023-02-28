@@ -29,6 +29,10 @@ Colors:
 /**************************/
 /*     General Styles     */
 /**************************/
+.marco24{
+	color: #cf180e;
+}
+
 body,
 html {
     width: 100%;
