@@ -573,7 +573,7 @@ input[type='checkbox'] {
 /*****************/
 .basic-1 {
 	padding-top: 8rem;
-	padding-bottom: 5.75rem;
+	padding-bottom: 0.75rem;
 }
 
 .basic-1 .h2-heading {
@@ -660,7 +660,7 @@ input[type='checkbox'] {
 /*     Projects     */
 /********************/
 .cards-1 {
-	padding-top: 8rem;
+	padding-top: 4rem;
 	padding-bottom: 3rem;
 }
 
@@ -803,13 +803,13 @@ a.back-to-top {
 	width: 42px;
 	height: 42px;
 	border-radius: 30px;
-	background: #d79491 url("../images/up-arrow.png") no-repeat center 47%;
+	background: #cf180e85 url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 18px 18px;
 	text-indent: -9999px;
 }
 
 a:hover.back-to-top {
-	background-color: #393a34;
+	background-color: #cf180e85;
 }
 
 
