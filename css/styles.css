@@ -37,6 +37,18 @@ Colors:
 	width: 100%;
 	object-fit: contain;
 }
+.hiden{
+	visibility: hidden;
+	display: none;
+}
+
+.divturma{
+	width: 100%;
+	justify-content: space-between;
+	display: flex;
+}
+
+
 body,
 html {
     width: 100%;
