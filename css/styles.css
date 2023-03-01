@@ -32,7 +32,11 @@ Colors:
 .marco24{
 	color: #cf180e;
 }
-
+.foto111{
+	
+	width: 100%;
+	object-fit: contain;
+}
 body,
 html {
     width: 100%;
