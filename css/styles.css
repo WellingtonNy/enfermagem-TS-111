@@ -689,6 +689,8 @@ input[type='checkbox'] {
 .cards-1 .card-image img {
 	margin: 0;
 	transition: all 0.2s;
+	height: 218px;
+    width: 400px;
 }
 
 .cards-1 .card-image:hover img {
