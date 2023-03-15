@@ -32,6 +32,26 @@ Colors:
 .marco24{
 	color: #cf180e;
 }
+
+.linkMal,.linkMal:hover{
+	word-wrap: break-word;
+	color:blue
+}
+.magT{
+	padding-top: 55px;
+}
+
+.divBut{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+.divBut a{
+	border-radius: 10px;
+	background-color: #a3231d;
+}
+
+
 .foto111{
 	
 	width: 100%;
