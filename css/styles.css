@@ -42,13 +42,28 @@ Colors:
 }
 
 .divBut{
+	margin-top: 20px;
 	width: 100%;
 	display: flex;
 	justify-content: center;
 }
 .divBut a{
+	width: 150px;
 	border-radius: 10px;
-	background-color: #a3231d;
+	background-color: #ffffff;
+	color: #cf180e85;
+	text-align: center;
+	text-decoration: none;
+	border: solid #cf180e 1px;
+	font-weight: 600;
+}
+.divBut a:hover{
+	background-color: #cf180e85;
+	color: #ffffff;
+	
+	text-decoration: none;
+	border: solid #cf180e 1px;
+	font-weight: 600;
 }
 
 
