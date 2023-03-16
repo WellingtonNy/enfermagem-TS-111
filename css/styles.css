@@ -32,10 +32,21 @@ Colors:
 .marco24{
 	color: #cf180e;
 }
+.padre{
+	width: 110px;
+}
 
 .linkMal,.linkMal:hover{
 	word-wrap: break-word;
 	color:blue
+}
+
+.divisa{
+	width: 100%;
+	height: 1px;
+	background-color: #676861;
+	margin-top: 15px;
+	margin-bottom: 17px;
 }
 .magT{
 	padding-top: 55px;
